@@ -2,9 +2,9 @@
 
 task1:    acm-task-a.netlify.app
 
-task2:    acm-task-b.netlify.app
+task2:    acm-task2.netlify.app
 
-task3:    acm-task-c.netlify.app
+task3:    acm-task3.netlify.app
 
 task4:    acm-task-d.netlify.app
 
